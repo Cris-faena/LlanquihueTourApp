@@ -1,0 +1,5 @@
+TVO1;"Ascenso al volcán Villarica";10;10000
+TVC02;"Vuelta al complejo volcánico Mocho-Choshuenco";20;20000
+TVC03;"Vuelta al complejo volcánico Carrán-Los Venados";45;45000
+TVO2;"Ascenso al volcán Quetrupillán";25;25000
+TC015;"Circuito de los siete lagos";125;200000
