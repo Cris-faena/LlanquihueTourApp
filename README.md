@@ -23,5 +23,5 @@ Instrucciones para ejecutar el proyecto
 1. Clona el repositorio desde GitHub:
 https://github.com/Cris-faena/LlanquihueTourApp.git
 2. Abre el proyecto en Intelli J IDEA.
-3. Ejecuta el archivo Main.Java. desde el paquete "App".
+3. Ejecuta el archivo Main.Java. desde el paquete "ui".
 4. Sigue las instrucciones en consola o la interfaz gráfica.
